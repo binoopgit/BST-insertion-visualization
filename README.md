@@ -47,7 +47,7 @@ Ensure you have Python installed (preferably version 3.6 or higher).
 Install the required libraries:
 
 ```bash
-  npm run deploy
+  pip install matplotlib networkx
 ```
 Run the script to see the BST insertion visualization in action.
 
@@ -85,4 +85,4 @@ Visualize how comparisons are made to find the correct insertion point.
 
 This project is open-source and free to use under  [MIT](https://choosealicense.com/licenses/mit/)
 
-# BST-insertion-visualization
+
